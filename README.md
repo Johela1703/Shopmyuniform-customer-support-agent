@@ -283,11 +283,6 @@ Open your browser at **`http://localhost:3000`**.
 
 ---
 
-## 🔗 GitHub Repository & Live Demo
+## 🔗 GitHub Repository
 - **GitHub Repository**: [https://github.com/Johela1703/Shopmyuniform-customer-support-agent.git](https://github.com/Johela1703/Shopmyuniform-customer-support-agent.git)
-- **Local Application Link**: `http://localhost:3000`
 
-
-## 🔗 Live Application Link & GitHub Repository
-- **GitHub Repository**: Submit repo URL
-- **Live Application Link**: Deployed application URL
