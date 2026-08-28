@@ -1,0 +1,13 @@
+{
+  "name": "shopmyuniform-root",
+  "version": "1.0.0",
+  "description": "ShopMyUniform MERN E-Commerce App with AI Customer Support Agent",
+  "scripts": {
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "seed": "npm --prefix server run seed",
+    "server": "npm --prefix server run start",
+    "server:dev": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "start": "node server/src/server.js"
+  }
+}
