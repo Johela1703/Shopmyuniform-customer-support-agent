@@ -3,6 +3,10 @@
         {
             "source": "/api/:path*",
             "destination": "https://shopmyuniform-customer-support-agent.onrender.com/api/:path*"
+        },
+        {
+            "source": "/((?!api/.*).*)",
+            "destination": "/index.html"
         }
     ]
 }
